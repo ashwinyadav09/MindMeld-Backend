@@ -1,0 +1,13 @@
+com\mindmeld\assistant\controller\AuthController.class
+com\mindmeld\assistant\dto\UserRequest.class
+com\mindmeld\assistant\entity\ChatLog.class
+com\mindmeld\assistant\entity\User.class
+com\mindmeld\assistant\dto\ChatRequest.class
+com\mindmeld\assistant\config\RestTemplateConfig.class
+com\mindmeld\assistant\MindMeldAssistantApplication.class
+com\mindmeld\assistant\service\GeminiService.class
+com\mindmeld\assistant\controller\ChatController.class
+com\mindmeld\assistant\repository\ChatLogRepository.class
+com\mindmeld\assistant\repository\UserRepository.class
+com\mindmeld\assistant\config\SecurityConfig.class
+com\mindmeld\assistant\service\SpotifyService.class
